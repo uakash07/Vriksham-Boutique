@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240">
+  <!-- Roots -->
+  <path d="M100 210 Q85 215 75 225" stroke="#6B4C35" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M100 210 Q115 215 125 225" stroke="#6B4C35" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M100 210 Q100 218 100 228" stroke="#6B4C35" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+  <!-- Trunk -->
+  <rect x="93" y="145" width="14" height="65" rx="7" fill="#6B4C35"/>
+  <path d="M96 170 Q88 165 82 160" stroke="#8B6045" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M104 175 Q112 170 118 162" stroke="#8B6045" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <!-- Lower branch leaves -->
+  <ellipse cx="75" cy="155" rx="18" ry="14" fill="#5A9E32" opacity="0.85"/>
+  <ellipse cx="125" cy="150" rx="16" ry="13" fill="#4A8E28" opacity="0.85"/>
+
+  <!-- Middle foliage cluster -->
+  <ellipse cx="80" cy="125" rx="22" ry="18" fill="#6DB33F" opacity="0.9"/>
+  <ellipse cx="120" cy="122" rx="20" ry="17" fill="#5DA82F" opacity="0.9"/>
+  <ellipse cx="100" cy="118" rx="26" ry="20" fill="#7DC44F" opacity="0.95"/>
+
+  <!-- Upper foliage cluster -->
+  <ellipse cx="85" cy="95" rx="24" ry="20" fill="#6DB33F"/>
+  <ellipse cx="115" cy="92" rx="22" ry="19" fill="#5DA82F"/>
+  <ellipse cx="100" cy="88" rx="30" ry="24" fill="#7DC44F"/>
+
+  <!-- Top canopy -->
+  <ellipse cx="90" cy="65" rx="22" ry="18" fill="#6DB33F"/>
+  <ellipse cx="110" cy="63" rx="20" ry="17" fill="#5DA82F"/>
+  <ellipse cx="100" cy="55" rx="28" ry="22" fill="#8ED458"/>
+
+  <!-- Crown / top cluster -->
+  <ellipse cx="100" cy="38" rx="22" ry="18" fill="#7DC44F"/>
+  <ellipse cx="88" cy="42" rx="16" ry="13" fill="#6DB33F"/>
+  <ellipse cx="112" cy="41" rx="15" ry="12" fill="#6DB33F"/>
+  <ellipse cx="100" cy="28" rx="16" ry="13" fill="#8ED458"/>
+
+  <!-- Golden accent dots (fruits/flowers) -->
+  <circle cx="72" cy="108" r="3" fill="#C4922A" opacity="0.8"/>
+  <circle cx="128" cy="105" r="2.5" fill="#C4922A" opacity="0.8"/>
+  <circle cx="86" cy="72" r="2.5" fill="#C4922A" opacity="0.7"/>
+  <circle cx="114" cy="75" r="2" fill="#DAA520" opacity="0.8"/>
+  <circle cx="100" cy="42" r="3" fill="#C4922A" opacity="0.9"/>
+  <circle cx="95" cy="20" r="2" fill="#DAA520" opacity="0.7"/>
+
+  <!-- Text: VRIKSHAM -->
+  <text x="100" y="215" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-weight="bold" fill="#6B4C35" text-anchor="middle" letter-spacing="3">VRIKSHAM</text>
+  <!-- Text: BOUTIQUE -->
+  <text x="100" y="232" font-family="Georgia, 'Times New Roman', serif" font-size="10" fill="#C4922A" text-anchor="middle" letter-spacing="5">BOUTIQUE</text>
+</svg>
