@@ -1,5 +1,11 @@
 # 🌿 Vriksham Boutique
 
+![Status](https://img.shields.io/badge/Status-Under%20Construction-orange?style=for-the-badge&logo=hammer)
+![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
+
+> ⚠️ **This project is currently under active development. Features may be incomplete or subject to change.**
+
 > Built with love for my mom's saree business. ❤️
 
 **Vriksham Boutique** is a premium handpicked saree boutique based in Chennai, Tamil Nadu. This website was designed and developed as a personal project for my mother's business — a place where every saree is chosen with care, rooted in tradition, and delivered with love across India.
