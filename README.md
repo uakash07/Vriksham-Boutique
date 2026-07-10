@@ -21,7 +21,7 @@ Vriksham Boutique offers handpicked sarees for every occasion — weddings, fest
 - 💬 WhatsApp-first ordering experience
 - ⭐ 5-star customer satisfaction
 
-**Instagram:** [@vriksham_.boutique]()
+**Instagram:** []()
 
 ---
 
